@@ -1,0 +1,63 @@
+body{
+
+    background-color: rgb(0, 0, 0);
+    
+
+}
+.container{
+    color: white;
+    width: 600px;
+    height: 300px;
+    padding: 25px;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-top: 150px ;
+    background-image: url(https://m.psecn.photoshelter.com/img-get/I0000cW_1p0cUGsA/s/1200/I0000cW_1p0cUGsA.jpg);
+
+}
+#head{
+    margin-left: 200px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#p1
+{
+    font-family:cursive;
+    font-size: large;
+    margin-left: 250px;
+}
+#p2
+{
+    font-family:cursive;
+    font-size: large;
+    margin-left: 250px;
+}
+#box1{
+    border-radius: 25px;
+    margin-left: 20px;
+    font-weight: bolder;
+    font-size: large;
+}
+#box2{
+    border-radius: 25px;
+    margin-left: 20px;
+    font-weight: bolder;
+    font-size: large;
+}
+#box3{
+    border-radius: 20px;
+    font-weight: bolder;
+    font-size: large;
+}
+#out{
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: 250px;
+}
+button{
+    margin-left: 250px;
+    border-radius: 20px;
+    font-size: larger;
+
+}
